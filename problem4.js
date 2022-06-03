@@ -10,6 +10,5 @@ function  problem4(inventory) {
     
     return car_year;
     
-    
     }
     module.exports = problem4;
