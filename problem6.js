@@ -10,9 +10,6 @@ function  problem6(inventory) {
            car.push(inventory[i]);  
           }
     }
-    
     return car;
-    
-    
     } 
     module.exports = problem6;
